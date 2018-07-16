@@ -1,0 +1,10 @@
+0 P false
+1 R false
+2 O false
+3 G false
+4 R false
+5 A false
+6 M false
+7 M false
+8 E false
+9 R false
